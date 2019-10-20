@@ -66,6 +66,7 @@ header {
 .bg-color-name-title {
     background-color: #676767;
     color: white;
+    /* height: 240px; */
 }
 
 .name {
@@ -189,3 +190,6 @@ footer {
     background: #e84610;
 }
 
+#footer-details {
+    padding: 20px;
+}
