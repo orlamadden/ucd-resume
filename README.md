@@ -15,5 +15,6 @@ This is a mock resume for a fictional person called Rosie Odenkirk.
 
 * Bootstrap
 * Font Awesome
+* Hover.css
 
 Built with :fire: by Orla
