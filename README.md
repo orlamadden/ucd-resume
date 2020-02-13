@@ -10,10 +10,12 @@ This is a mock resume for a fictional person called Rosie Odenkirk.
 
 * HTML
 * CSS
+* Javascript
 
 ### Frameworks used:
 
 * Bootstrap
+* jQuery
 * Font Awesome
 * Hover.css
 
